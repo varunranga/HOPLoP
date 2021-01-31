@@ -6,5 +6,3 @@ Datasets can be downloaded from:
 2. [FB15K-237](https://drive.google.com/file/d/1klWL11nW3ZS6b2MtLW0MHnXu-XlJqDyA/view?usp=sharing)
 3. [WN18RR](https://drive.google.com/drive/folders/1fyKRIWWHtwYS9eOHHpSXN3bUQgKG6rDs?usp=sharing)
 4. [YAGO3-10](https://drive.google.com/drive/folders/1s_4d78zwZjGnOH7TNk-qn4T0OlGieAel?usp=sharing)
-
-Alternatively, you can create the WN18RR and YAGO3-10 dataset using codes provided in this repository.
