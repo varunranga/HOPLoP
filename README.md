@@ -1,4 +1,4 @@
-# HOPLoP: Multi-hop link prediction over Knowledge Graph Embeddings
+# HOPLoP: Multi-hop Link Prediction over Knowledge Graph Embeddings
 
 Datasets can be downloaded from [here](https://drive.google.com/drive/folders/1URVS3A_xMZly3X6CgkSuoRxiENRYFWaF?usp=sharing):
 1. [NELL-995](http://cs.ucsb.edu/~xwhan/datasets/NELL-995.zip)
