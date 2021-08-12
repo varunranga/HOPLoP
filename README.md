@@ -6,8 +6,8 @@ Datasets can be downloaded from [here](https://drive.google.com/drive/folders/1U
 3. [WN18RR](https://drive.google.com/drive/folders/1fyKRIWWHtwYS9eOHHpSXN3bUQgKG6rDs?usp=sharing)
 4. [YAGO3-10](https://drive.google.com/drive/folders/1s_4d78zwZjGnOH7TNk-qn4T0OlGieAel?usp=sharing)
 
-Results from all experiments can be found in the `(M)HOPLoP Results.xlsx` files in this repository.
-Logs can be found [here](https://drive.google.com/drive/folders/15apkojiK--j0jdkQKr6TOaMxb4-3eU9v?usp=sharing).
+Results from all experiments can be found in the `(M)HOPLoP Results.xlsx` files in this repository. \\
+Logs can be found [here](https://drive.google.com/drive/folders/15apkojiK--j0jdkQKr6TOaMxb4-3eU9v?usp=sharing). \\
 
 To run experiments:
 1. Download the datasets from [here](https://drive.google.com/drive/folders/1URVS3A_xMZly3X6CgkSuoRxiENRYFWaF?usp=sharing) into a `Datasets' folder in the (M-)HOPLoP folder. 
